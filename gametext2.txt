@@ -1,0 +1,282 @@
+
+START
+Oh, you're awake...
+You've been out for a few days now.
+I can tell you have short-term memory loss,
+so you probably won't remember why you're here.
+To make a long story short, you had been working
+on this spaceship when aliens attacked.
+Everyone else either escaped or was killed,
+but a stray shot hit your escape pod right as you sealed the doors,
+causing it to malfunction and knocking you out.
+I am the last remaining robot on the ship, and I will try to help you escape.
+You can communicate with me by typing into the keyboard in front of you.
+Let's try it out. Type in your name at the prompt and hit 'Enter'.
+END
+
+NAME
+That's a beautiful name.
+You are clearly beautiful, intelligent and charming.
+I like you already.
+END
+				
+NAME2
+Really??
+I don't like that name.
+You know what's a good name?
+Dilbert. That's a beautiful name.
+Anyone with that name would obviously be beautiful, intelligent and charming.
+So let's forget about your real name and call you Dilbert, okay?
+Okay.
+END
+				
+START2
+Oh, and my full name is,
+Jocular Automated Computer with Kinetic Interactive Experience - Bodytype: 'OY'
+or J.A.C.K.I.E. B-OY for short.
+most people just call me Jack though.
+When I go into a room, I'll describe it to you and then you can tell me what to do.
+It's best to give me simple two word commands of an action and a thing.
+For example, 'go east', 'take key', or 'examine thing'.
+If there's a direction you can go, or an object you can use,
+I'll put that in brackets like [this]
+If I don't understand, or I can't do it - I'll let you know.
+I apologize for the inconvenience... 
+The guy that programmed me wasn't that bright.
+Okay, let's get to it.
+END
+
+START3
+Aliens attacked your ship. Everyone else either escaped or was killed,
+but your escape pod malfunctioned, knocking you out.
+I am the last remaining robot on the ship, and I will try to help you escape.
+You can communicate with me by using the screen in front of you.
+Use the arrow buttons to have me change rooms.
+If there is an item in the room, it will show up on the bottom right.
+END
+
+
+ROBOTSTORAGE
+This is the robot storage room.
+END
+
+ROBOTSTORAGE2
+This is the robot storage room.
+There are a lot of broken robots lying around.
+It breaks my main connecting circuit to see them like this.
+
+END
+
+DININGROOM
+I am in the dining room.
+END
+
+
+DININGROOM2
+I am in the dining room.
+There are overturned tables and chairs.
+END
+
+BARRACKS
+I am in the barracks.
+END
+
+BARRACKS2
+I am in the barracks.
+There are twenty bunk beds on either side of the room.
+At the foor of each bunk bed, there is a chest.
+END
+
+PAPER1
+There seems to be a piece of [paper] sicking out from under
+one of the chests. It seems like someone tried to hide it.
+I wonder if it's important.
+END
+
+PAPER2
+****TOP SECRET****
+The computer code is 'rosebud'.
+END
+
+ENGINEROOM
+I am in the engine room.
+
+END
+ENGINEROOM2
+I am in the engine room.
+END
+
+COMPUTERROOM
+I am in the computer room.
+END
+
+COMPUTERROOM2
+I am in the computer room.
+END
+
+GALLEY
+I am in the galley.
+END
+
+GALLEY2
+I am in the
+END
+
+BATHROOM2
+I am in the Bathroom. 
+The main section, for all staff, consists of a few stalls and sinks.
+There is a separate Captain's section, with a shaving seat, and vanity.
+END
+
+BATHROOM
+I am in the Bathroom.
+END
+
+MAINTENANCE
+I am in the maintenance room.
+END
+
+MAINTENANCE2
+I am in the maintenance room.
+END
+
+WAREHOUSE
+I am in the warehouse.
+END
+
+WAREHOUSE2
+I am in the warehouse.
+END
+
+COMPUTER1
+There is a [computer] in the room.
+I can connect directly into the computer.
+This will allow you to control the computer automatically.
+END
+
+COMPUTER2
+I am connecting to the computer.
+Type the word computer before your command, 
+so I know to pass the command to the computer.
+It should look like this: 'computer x'.
+Hit enter to connect.
+END
+
+PHOTO1
+On the mirror of the vanity, there is a [photo].
+It must have belonged to the captain.
+I wonder if it's important...
+END
+
+PHOTO2
+It's a photo of the captains wife.
+On the bottom, it says - "Forever Your Love, marilyn."
+Huh, boopsy was his lovey.
+Something about that ring's a bell, but I can't place it.
+END
+
+CAPTAINSOFFICE
+I am in the captains office.
+END
+
+CAPTAINSOFFICE2
+I am in the captains office.
+It's a bit cluttered. 
+END
+
+KEY1
+There's a [key] hanging on the wall.
+END
+
+KEY2
+It's a key.
+I wonder where it goes...
+END
+
+PIPE1
+There's a workbench in the middle of the room with a large [pipe] on it.
+It looks like someone was trying to repair something.
+END
+
+PIPE2
+It's a pipe.
+I wonder where it goes...
+END
+
+MAYBEESCAPE
+Your escape pod has launched!
+I wonder what the computer meant about a manual reset though...
+Do you think it had something to do with the locked warehouse?
+Oh well, I guess we'll never know...
+Hello?
+Hello??
+END
+
+NOESCAPE
+Your escape pod has launched!
+But wait!!!!
+We never fixed it!!
+In a few moments, all the air will leak out of the pod.
+I'm truly sorry.
+Goodbye...
+END
+
+CLEANESCAPE
+Your escape pod is launching!
+Huh, there seems to be a spot for a pipe here...
+Oh! That's what the computer must have meant by manual reset!
+Ok, I've installed the pipe, and you're good to go!
+Your escape pod has launched!
+It's completely fixed and on a course back to Earth!
+You'll be home soon!
+Congratulations!
+END
+
+TESTER1
+a test
+END
+
+TESTER2
+passed test.
+END
+
+
+COMPUTER3
+Type 'e' to access the escape pod system self-diagnostic.
+Type 'c' to access the captains office security system.
+Type 'exit' to exit.
+END
+
+LAUNCH1
+Priming escape pod.
+Press launch again to launch.
+END
+
+ESCAPEPOD2
+I am in the escape pod room.
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
